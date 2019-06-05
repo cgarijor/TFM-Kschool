@@ -1,5 +1,6 @@
 # TFM-Kschool
-Trabajo fin de Master Kschool
+Trabajo fin de Master Kschool.
+
 En este repositorio está la descripción, modelo de datos, código y una descripción somera del despliegue.
 
 Objetivo del TFM:
