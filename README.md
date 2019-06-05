@@ -1,10 +1,6 @@
 # TFM-Kschool
 
-Trabajo fin de Master Kschool.
-
-    En este repositorio está la descripción, modelo de datos, código y una descripción somera del despliegue.
-
-Objetivo del TFM:
+   Objetivo del TFM:
 
    Sistema para el procesamiento y análisis de información
    de sistemas de autogeneración energética
